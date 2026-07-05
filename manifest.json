@@ -1,0 +1,25 @@
+{
+  "name": "Mantis",
+  "short_name": "MANTIS",
+  "description": "Control de horas extra, miércoles canjeables, guardias semanales y vacaciones",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14171A",
+  "theme_color": "#14171A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "ICONS/icon-192.png?v=4",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ICONS/icon-512.png?v=4",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
